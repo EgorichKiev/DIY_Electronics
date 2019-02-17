@@ -25,7 +25,8 @@ TruRMS chip connection and power by 5V:
 Dimming device connection to arduino:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6035.JPG)
 
-
+Low resistance measurement by 3-wire connection and constant current source:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6036.JPG)
 
+Connection 42-52V RMS voltage connection to TrueRMS chip measurement:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6041.JPG)
