@@ -1,2 +1,2 @@
 # DIY_Electronics
-proved schematic solutions for project
+Proven circuit solutions for projects on Arduino
