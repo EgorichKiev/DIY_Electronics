@@ -16,7 +16,9 @@ Hardware encoder schematic solution for cheap chinese encoders and no calculatio
 Almost no power consumption and switch "on power" and "control" by 1 button on USB charger and booster:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/_20190217_194517.JPG)
 
+Power by opto-relay and one control button and p-chanel mosfet connection:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6038.JPG)
+
 
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6039.JPG)
 
