@@ -7,6 +7,6 @@ Low power proximity photo detector on QRE1113:
 ME4056 for reserve powering of arduino:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/ME4056.jpg)
 
-almost no power consumption switch on powert and control by 1 button:
+almost no power consumption switch "on power" and "control" by 1 button:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6029.JPG)
 
