@@ -15,3 +15,13 @@ Hardware encoder schematic solution for cheap chinese encoders and no calculatio
 
 Almost no power consumption and switch "on power" and "control" by 1 button on USB charger and booster:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/_20190217_194517.JPG)
+
+![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6038.JPG)
+
+![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6039.JPG)
+
+![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6035.JPG)
+
+![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6036.JPG)
+
+![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6041.JPG)
