@@ -19,10 +19,12 @@ Almost no power consumption and switch "on power" and "control" by 1 button on U
 Power by opto-relay and one control button and p-chanel mosfet connection:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6038.JPG)
 
-
+TruRMS chip connection and power by 5V:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6039.JPG)
 
+Dimming device connection to arduino:
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6035.JPG)
+
 
 ![alt text](https://github.com/EgorichKiev/DIY_Electronics/blob/master/DSC_6036.JPG)
 
